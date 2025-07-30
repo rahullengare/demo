@@ -1,7 +1,7 @@
 # Creating Registration Form using RDS
-## About Project:
 
-This project involves deploying a **user registration form** on an **Amazon EC2 instance**, with the backend connected to a **MySQL database hosted on Amazon RDS (Relational Database Service)**. The form allows users to submit their personal information such as **name, email, website, comment, and gender**, which is securely stored in a cloud-managed database. The application is built using **open-source technologies** and is hosted on a **Linux-based Nginx web server** with **PHP** for backend logic.
+
+This project involves deploying a **user registration form** on an **Amazon EC2 instance**, with the backend connected to a **MySQL database hosted on Amazon RDS - Relational Database Service**. The form allows users to submit their personal information such as **name, email, website, comment, and gender**, which is securely stored in a cloud-managed database. The application is built using **open-source technologies** and is hosted on a **Linux-based Nginx web server** with **PHP** for backend logic.
 
 By separating the database layer onto **Amazon RDS**, the system benefits from **better scalability, easier maintenance, automated backups, high availability, and security features**, compared to managing a database directly on EC2.
 
